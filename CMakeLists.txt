@@ -10,4 +10,4 @@ include_directories(include)
 
 add_executable(server src/main.cpp src/utils.cpp)
 
-target_link_libraries(server Boost:system)
+target_link_libraries(server Boost::system)
