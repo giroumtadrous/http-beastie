@@ -1,0 +1,3 @@
+/home/giroum/http-beastie/build/CMakeFiles/server.dir
+/home/giroum/http-beastie/build/CMakeFiles/edit_cache.dir
+/home/giroum/http-beastie/build/CMakeFiles/rebuild_cache.dir
